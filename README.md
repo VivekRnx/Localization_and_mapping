@@ -4,4 +4,4 @@ Ros Run video link- https://drive.google.com/file/d/1rEQZTX_GTZ7F0xulWyYVEPFnvxE
 
 Setup-
 
-![Project Screenshot](setup.png)
+![Project Screenshot](setup.png) ![Project Screenshot](setup2.png) 
